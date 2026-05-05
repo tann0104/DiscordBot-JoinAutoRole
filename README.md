@@ -1,0 +1,2 @@
+# DiscordBot-JoinAutoRole
+Discord のサーバーにユーザーが参加したら自動でロールを付与します
